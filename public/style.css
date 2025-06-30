@@ -1,0 +1,13 @@
+.h1{
+  color: maroon;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+.post {
+  background-color: blanchedalmond;
+}
+.user {
+  background-color: rgb(245, 218, 191);
+  font-style: italic;
+
+}
